@@ -3,6 +3,7 @@ name: Xin Yong
 position: pi
 avatar: xin_yong.jpg
 twitter:
+title: Xin Yong
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
