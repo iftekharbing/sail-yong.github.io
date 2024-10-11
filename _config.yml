@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+name:               "SaIL"
+title:              "Soft Matter and Interfacial Phenomena Lab at the University of Buffalo"
+description:        "SaIL is a soft matter and interfacial phenomena research group at the University of Buffalo."
 
 
 # URL
-url:                http://kordinglab.com
+url:                http://sail-yong.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -26,16 +26,12 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
   - name:           "people"
     href:           "/people"
-  # - name:           "blog"
-    # href:           "/blog"
-#   - name:           "abstracts"
-#     href:           "/abstracts"
-  - name:           "lab teachings"
-    href:           "/presentations"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "positions"
+    href:           "/positions"
 
 # Sass
 sass:

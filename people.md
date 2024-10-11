@@ -58,71 +58,39 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Tony Liu](https://tliutony.github.io/) | Graduate Student (2018-2024) | Assistant Professor of Computer Science, Mount Holyoke College |
-| [Xinyue Wang](https://www.charonwangg.com/) | Graduate Student (2021-2023) | PhD Student, Halıcıoğlu Data Science Institute, UCSD |
-| [Ilenna Jones](https://www.ilenna.com/) | Graduate Student (2017-2023) | Postdoc, Kemptner Institute, Harvard|
-| [Ben Baker](https://www.tbenbaker.com/) | Post-doc (2021-2023) | Assistant Professor of Philosophy at Colby|
-| [Richard Lange](https://www.rit.edu/directory/rdlvcs-richard-lange)  | Post-doc (2021-2023) | Assistant Professor at Rochester University|
-| Justin Brantley | Post-doc (2021-2023) | Data Scientist, Texas Rangers, yes they did win the super something twice in a row after he joined them |
-| [Ari Benjamin](https://ari-benjamin.com/) | Graduate student (2016-2022) | Postdoc with Tony Zador at Cold Spring Harbor Laboratory |
-| [Titipat Achakulvisut](https://kordinglab.com/people/titipat_achakulvisut/.index.html) | Graduate Student (2014 - 2021) | [Biomedical and Data Lab](https://biodatlab.github.io/), Dept of Biomedical Engineering, Mahidol University, Thailand |
-| [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Graduate Student (2018 - 2021) | Programmer Analyst at Cedars-Sinai Department of Computational Biomedicine|
-[Nidhi Seethapathi](https://www.seethapathilab.org) | Postdoc (2018 - 2021) | Assistant Professor at MIT BCS and EECS |
-| [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
-| [David Rolnick](http://kordinglab.com/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, McGill University and Mila |
-| [Shaofei Wang](http://kordinglab.com/people/shaofei_wang/index.html) | Researcher (2018 - 2020) | PhD Student, Computer Science, ETH Zurich |
-| [Ethan Blackwood](http://kordinglab.com/people/ethan_blackwood/index.html) | Rotation Student (2019) | Alex Proekt's Lab at UPenn |
-| [Steve Antos](http://kordinglab.com/people/steve_antos/index.html) | Graduate Student (2012 - 2019) | Analytics Developer |
-| [Sofia Triantafillou](https://www.dbmi.pitt.edu/node/54091) | Postdoc (2016 - 2018) | Assistant Professor of Biomedical Informatics at University of Pittsburgh |
-| [Gaiqing Kong](https://gaiqingkong.github.io/) | Visiting Scholar (2016 - 2018) | Fyssen Foundation Postdoc at INSERM, France |
-| [Claire Chambers](http://kordinglab.com/people/claire_chambers/index.html)  | Postdoc (2015 - 2018) | Data Scientist in Ireland |
-| [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2012 - 2018) | Postdoc at Columbia |
-| [Daniel Wood](http://kordinglab.com/people/daniel_wood/index.html) | Postdoc (2014 - 2017) | Data Scientist at SharpestMinds |
-| [Bahram Yoosefizonooz](http://kordinglab.com/people/bahram_yoosefizonooz/index.html) | Visiting (2017) | NavInfo Europe |
-| Elahe Arani | Visiting (2017) | NavInfo Europe |
-| [Luca Lonini](http://kordinglab.com/people/luca_lonini/index.html) | Postdoc (2017) | Research Scientist at Shirley Ryan Ability Lab |
-| [Ravi Garg](http://kordinglab.com/people/ravi_garg/index.html) | Undergrad Research | MBA Candidate at Kellogg School |
-| [Sohrob Saeb](http://kordinglab.com/people/sohrob_saeb/index.html) | Postdoc (2014 - 2017) | Data Scientist at Verily |
-| [Eva Dyer](http://kordinglab.com/people/eva_dyer/index.html) | Postdoc (2017) | Assistant Professor of Biomedical Engineering at Georgia Tech and Emory U |
-| [Pavan Ramkumar](http://kordinglab.com/people/pavan_ramkumar/index.html) | Postdoc (2017) | Director of ML at Herophilus |
-| [Ted Cybulski](http://kordinglab.com/people/ted_cybulski/index.html) | Graduate Student (2012 - 2017) | Internal Medicine Resident at Northwestern |
-| Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn |
-| [Pat Lawlor](http://kordinglab.com/people/pat_lawlor/index.html) | Graduate student (2016) | Resident Physician at Children's Hospital of Philadelphia |
-| [Hugo Fernandes](http://kordinglab.com/people/hugo_fernandes/index.html) | Postdoc (2016) | [rockets of awesome](https://www.rocketsofawesome.com/) |
-| [Torben Noto](http://kordinglab.com/people/torben_noto/index.html) | Rotation Student (2016) | PhD Student w/ Christina Zelano at Northwestern |
-| [Vivek Sagar](http://kordinglab.com/people/vivek_sagar/index.html) | Rotation Student (2016) | PhD Student w/ Thorsten Kahnt at Northwestern |
-| [David Brandfonbrener](http://kordinglab.com/people/david_brandfonbrener/index.html) | Visiting Scholar (2016)  | PhD Student w/ Joan Bruna at NYU |
-| [Daniel E. Acuna](http://kordinglab.com/people/daniel_e_acuna/index.html) | Postdoc (2016) | Assistant Professor of [iSchool at Syracuse](https://ischool.syr.edu/people/directories/view/deacuna/) |
-| [Mohammad Azar](http://mgazar.net/academic/) | Postdoc (2016) | Google Deepmind, London |
-| [Cong Yin (Lily)](http://kordinglab.com/people/cong_yin/index.html) | Visiting scholar (2015-2016) | Peking University |
-| [Youguo Chen](https://scholar.google.com/citations?user=wZQdEFAAAAAJ&hl=zh-CN) | Visiting scholar (2014 - 2015) | Associate Professor, Southwest University, Chongqing, China |
-| [Max Berniker](http://sensorimotorcontrolatorium.uic.edu/)   | Postdoc (2014) | Data Scientist at Intuitive |
-| [Mathieu d'Acremont](https://scholar.google.com/citations?user=D7ys4VQAAAAJ&hl=en) | Postdoc (2014) | Lead Data Scientist at CVS Health |
-| [Iris Vilares](https://scholar.google.com/citations?user=Ztwn608AAAAJ&hl=en)   | Graduate Student (2009-2013) | Assistant Professor of Psychology at University of Minnesota |
-| Ben Walker     | Research Engineer (2010-2013) | MS in ME at Northwestern University, Masanet lab |
-| Bill Lotter    | Research Scientist (2012-2013)| PhD at MIT |
-| Mark Albert	   | (Dec 2009 - Dec 2012) | Asst Prof, Loyola University, Computer Science |
-| Yoshiyuki (Yoshi) Sato | Visiting Professor (2012 - 2013) | Asst Prof, Univ of Electro-Communications, Tokyo |
-| Petra Conaway	Clinical | Coordinator (2012) | Continuing her work at RIC |
-| Rich Li | Rotation Student (Fall 2012) | Continuing Rotations |
-| James Ellis | Rotation Student (Fall 2012) | Continuing Rotations |
-| Hamid Buini | Summer Intern (2012) | University of Southern Florida |
-| AmberLace Moore | Summer Intern (2012) | Spelman College |
-| Mayowa Agbaje-Williams | Clinical Coordinator (Summer 2012) | Univ. Illinois Chicago School of Pharmacy |
-| Florian Neubauer | Visiting Scholar (2011 - 2012) | PostDoc in Switerland |
-| Qiang (Chris) Chen | Rotation Student (Spring 2012) | Raphael Pinaud's lab at Northwestern |
-| Ranit Sengupta | Rotation Student (Fall 2011) | Data Analyst |
-| [Ian Stevenson](http://stevenson.lab.uconn.edu/) | Grad Student (2006-2011) | Associate Professor of Psychology at University of Connecticut |
-| Andrew Cichowski | MD rotation student (Summer 2011) | Neurologist at Guadalupe Regional Medical Center |
-| James Howard | Rotation Student (Winter 2009) | Assistant Professor of Psychology at Brandeis University |
-| Kunlin Wei | Postdoc (2006-2009) | Professor of Psychology and Cog Sci at Peking University |
-| Ricardo Ruiz Torres | Rotation Student (Spring 2009) | Vicarious Surgical Inc. |
-| Gregory Dam | Grad Student (2006-2009) | Assistant Professor of Psychology at Indiana University |
-| Daniel Wert | SINE Intern (2008) | ALIVE Industries |
-| Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist at IsoPlexis |
-| Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
-| Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+| Eric Cadalzo | MS student (2023-2024) |  |
+| Priscilla Pomerantz | MS student (2023-2024) | |
+| [Justin Reicher](https://www.linkedin.com/in/justin-reicher) | Undergraduate researcher (2023-2024) | Systems engineer at L3Harris |
+| Javier Guadalupe | Undergraduate researcher (2023-2024) | Senior at Binghamton University |
+| Kyra Cheung | Visiting high school researcher (2023-2024) | Freshman at Binghamton University |
+| [Hasan Al Tarify](https://www.linkedin.com/in/hasan-al-tarify?trk=public_profile_browsemap) | MS thesis student (2022-2023) | PhD student at University of Minnesota |
+| [Reza Goharimerh](https://www.linkedin.com/in/reza-goharimehr-b7383b258) | PhD student (2022-2023) | PhD position at Villanova University |
+| [Gottlieb Teoli](https://www.linkedin.com/in/gottlieb-teoli) | Undergraduate reseacher (2023) | Product design engineer at ITT Inc. |
+| Ryan Ginley | Undergraduate researcher (2023) | MS student at Binghamton University
+| [Jonathan M. Blisko](https://www.linkedin.com/in/jonathan-blisko-8aa7a9180) | Undergraduate researcher, MS student, and post-bacc reseacher (2018-2023) | MS student at University of Padova |
+| Mithila Farin | Undergraduate reseacher (2020-2021) | Undergraduate at Boston University
+| [Shensheng Chen](https://scholar.google.com/citations?user=rODiYsoAAAAJ&hl=en) | PhD student (2016-2020) | Postdoc at Caltech |
+| [Hussein N. Dalgamoni](https://scholar.google.com/citations?user=s6FGfz4AAAAJ&hl=en) | PhD Student (2016-2019) | Assistant Professor at Hashemite University, Jordan |
+| [Ao Li](https://www.linkedin.com/in/ao-li-li-ao) | MS and PhD student (2015-2019) | Software engineer at Mathworks |
+| [Shiyi Qin](https://scholar.google.com.hk/citations?user=CtIGZxEAAAAJ&hl=en) | PhD student (2015-2019) | Postdoc at Northwestern University |
+| [Mingfei Zhao](https://mzhao.people.ua.edu/) | PhD student (2015-2019) | Postdoc at University of Chicago
+| Andy Zou | Undergraduate researcher (2018-2019)
+| [Tyler F. Moy](https://www.linkedin.com/in/tylermoy)| Undergraduate researcher (2019) | |
+| Adrian J. Diaz | Undergraduate researcher (2019) | MS student at Binghamton University |
+| [Joseph M. Prisaznuk](https://www.linkedin.com/in/joe-prisaznuk) | Undergraduate researcher (2019) | PhD student at Binghamton University |
+| Pranshu Babber | Undergraduate researcher (2019) | |
+| Rebecca E. Schneider | Undergraduate researcher (2019) | |
+| Tanjil S. Uddin | Undergraduate researcher (2017-2019) | MD student at NJIT |
+| [Wilson Luo](https://www.linkedin.com/in/wilson-luo-67654b100) | Undergraduate researcher (2017-2019) | Systems Engineer at Lockheed Martin |
+| [Chunheng Zhao](https://www.linkedin.com/in/chunheng-zhao-76b609133) | MS thesis student (2017-2018) | PhD student at CCNY |
+| [Junhyunk (Andrew) Kang](https://www.linkedin.com/in/andrew-j-kang) | Undergraduate researcher (2017-2018) | PhD student at Cornell University |
+| Lawrence Zhang | Undergraduate researcher (2017) | MD student at Drexel University |
+| Giomar I. Condori | CSTEP summer researcher (2017) | PharmD student at Binghamton University |
+| Jiamin Li | Undergraduate researcher (2016-2017) | PhD student at UIC |
+| Peijun Yu | MS thesis student (2015-2016) | PhD student at City University of Hong Kong |
+| Juan C. Medina | Undergraduate Researcher (2015-2016) | Engineer at Pratt & Whitney |
+| Sumiao Pang | Undergraduate researcher (2015) | MS student at Binghamton University |
+
 
 {% endif %}
 {% endfor %}

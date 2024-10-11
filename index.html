@@ -5,34 +5,37 @@ layout: default
 <div class='container'>
     <header class="masthead text-center">
 
-      <img class='img-responsive center-block' src="/images/people/KLab_Fall_2021.png" width="100%" height="100%" />
+      <img class='img-responsive center-block' src="/images/others/north-campus.jpg" width="100%" height="100%" />
 
       <p>
-      <i>Causality and Machine learning. <br> Machine Learning and Deep Learning for Neuroscience.<br>
-      Neuroscience for Deep Learning.<br>
-      and Machine Learning for Movement/Meta-Science.</i>
+      <b><font size="+1">Welcome to the Soft Matter and Interfacial Phenomena Lab (SaIL)!<br>
+        We are a group of researchers studying soft matter physics and interfacial science in synthestic and biological systems.</font></b><br>      
+        <i>microscale fluid mechanics<br> 
+           colloidal transport<br>
+           active matter<br>
+           membranes and vesicles</i>
 
         <span style="display: block; margin-bottom: 3em"></span>
 
-      <a href="https://github.com/KordingLab"><i class="fa fa-github"></i> KordingLab</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://twitter.com/KordingLab"><i class="fa fa-twitter"></i> KordingLab</a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:kording@upenn.edu"><i class="fa fa-envelope-o"></i> kording@upenn.edu</a>
+      <a href="https://github.com/SaIL-Yong"><i class="fa fa-github"></i> SaIL</a>&nbsp;&nbsp;&nbsp;
+<!--       <a href="https://twitter.com/KordingLab"><i class="fa fa-twitter"></i> KordingLab</a>&nbsp;&nbsp;&nbsp;
+ -->      <a href="mailto:xinyong@buffalo.edu"><i class="fa fa-envelope-o"></i> xinyong@bufflo.edu</a>
       </p>
 
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
           <h3> Recent News </h3>
-          <u>Happenings of the last few months</u>
+          <!--<u>Happenings of the last few months</u>>-->
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
+              {% capture now %}{{'now' | date: '%s' | minus: 15552000 }}{% endcapture %}
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
-                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                  {% capture date %}{{new.date | date: '%s' | plus: 0 }}{% endcapture %}
                   {% if date > now %}
                     <li>
                       <span>
-                        {{ new.details }}
+                        {{ new.date }}: {{ new.details}}
                       </span>
                     </li>
                   {% endif %}
@@ -47,12 +50,14 @@ layout: default
       <span style="display: block; margin-bottom: 3em"></span>
 
 
-      <a class="twitter-timeline" href="https://twitter.com/KordingLab" data-widget-id="695051708246941697">Tweets by @KordingLab</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!--      <a class="twitter-timeline" href="https://twitter.com/KordingLab" data-widget-id="695051708246941697">Tweets by @KordingLab</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>-->
 
       <span style="display: block; margin-bottom: 3em"></span>
-      Department of Bioengineering and Department of Neuroscience at University of Pennsylvania<br>
-      404 Richards Building, 3700 Hamilton Walk, Philadelphia, PA 19104
+      Department of Mechanical and Aerospace Engineering<br>
+      University at Buffalo<br>
+      201 Bell Hall, Buffalo, NY 14228<br>
+      <small><small>(Powered by <a href="http://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/KordingLab/KordingLab.github.io">Kording Lab's</a> template. Photo courtesy of <a href="https://ubphoto.smugmug.com/Years/2023/230415-Campus-Views-Aerial-Construction-Murchie-Spine/i-tTkzkFW/A">UB</a>.</small></small>)
       <span style="display: block; margin-bottom: 3em"></span>
 
     </header>

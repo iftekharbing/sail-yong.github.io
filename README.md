@@ -1,6 +1,6 @@
-# Kording lab page
+# SaIL lab webpage
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [SaIL lab webpage](https://sail-yong.github.io). This Github website uses Jekyll to run pages and is based on the open source templated designed and shared by [Kording Lab](https://kordinglab.com/) at UPenn. We forked their repository and modified our contents based on the shared template. We greatly thank them for providing their lab webpage template and allowing the reuse of source code.
 
 ## Run the page locally using Jekyll
 
@@ -37,7 +37,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [SaIL website](http://sail-yong.github.io/)!
 
 ### Add yourself
 
@@ -45,11 +45,11 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 
 ``` markdown
 ---
-name: Eva Dyer
-position: postdoc
-avatar: eva.jpg
+name: John Doe
+position: gradstudent
+avatar: johndoe.jpg
 twitter:
-joined: 2014
+joined: 2024
 ---
 ```
 
