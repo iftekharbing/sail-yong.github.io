@@ -511,9 +511,14 @@ tbody tr:nth-child(odd) th {
 
 .navbar-brand {
   //font-weight: bold;
+  font-family: 'Open Sans';
   font-size: 20px;
   font-weight: 300;
   text-transform: none;
+}
+
+.brand-image {
+  padding: 9px 5px 0px 15px;
 }
 
 // change font for navbar

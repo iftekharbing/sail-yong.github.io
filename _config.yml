@@ -29,7 +29,7 @@ nav:
   - name:           "people"
     href:           "/people"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/publications"
   - name:           "positions"
     href:           "/positions"
 
