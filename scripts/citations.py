@@ -1,6 +1,6 @@
 """
-Quickly hacked-together script for pulling Konrad's citations from Google
-Scholar, and formatting them according to the Markdown shown on http://kordinglab.com/publication/
+Quickly hacked-together script for pulling Yong's citations from Google
+Scholar, and formatting them according to the Markdown shown on http://sail-yong.github.io/publications/
 
 requests-html used to avoid captcha/violating Google ToS.
 """
@@ -118,9 +118,9 @@ def print_markdown(paper_dict):
         ))
 
 if __name__ == "__main__":
-    konrad_profile_url = "https://scholar.google.com/citations?hl=en&user=MiFqJGcAAAAJ&view_op=list_works&sortby=pubdate"
+    yong_profile_url = "https://scholar.google.com/citations?hl=en&user=IcVTSosAAAAJ&view_op=list_works&sortby=pubdate&pagesize=100"
     session = HTMLSession()
-    citation_links = get_citation_links(session, konrad_profile_url)
+    citation_links = get_citation_links(session, yong_profile_url)
 
     paper_data = [get_paper_data(session, url) for url in citation_links]
 
