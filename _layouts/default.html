@@ -44,10 +44,10 @@ I love those that desire the impossible - Goethe.
 
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
   <!-- favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/images/logo/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/images/logo/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/images/logo/favicon-16x16.png">
-  <link rel="manifest" href="{{ site.url }}/images/logo/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/logo/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/logo/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/logo/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/images/logo/site.webmanifest">
   <!-- open graph -->
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
