@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publication/
+permalink: /publications/
 ---
 
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
