@@ -9,4 +9,4 @@ Our lab has two immediate openings at different levels: a fully funded PhD stude
 
 Interested candidates are invited to email <a href="mailto:xinyong@buffalo.edu">Dr. Xin Yong</a> with a CV, contact information of 2-3 references, and a brief description of your research experience and motivation. PhD applicants should also provide unofficial B.S. (and M.S.) transcripts as well as TOEFL and GRE scores. More information about PhD admissions and applications can be found at: https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html.
 
-**Dr. Xin Yong will attend the 2024 APS DFD Meeting at Salt Lake City in November. If you are interested in our positions and would like to have an in-person chat, please feel free to reach out.**
+**Dr. Yong will attend the 2024 APS DFD Meeting at Salt Lake City in November. If you are interested in our positions and would like to have an in-person chat, please feel free to reach out.**
