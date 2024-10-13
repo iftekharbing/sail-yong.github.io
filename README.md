@@ -16,7 +16,7 @@ jekyll serve
 
 Below, we explain how to edit the lab webpage
 
-### Add posts
+<!--### Add posts
 
 It's very easy to add post. All the posts are located in `_posts` folder. It arrangement is based on
 date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers:
@@ -38,7 +38,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
 The changes will take approximately half a minute to render. You can see the new posts or changes on [SaIL website](http://sail-yong.github.io/)!
-
+-->
 ### Add yourself
 
 You can add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your own page. See the following for the header
