@@ -1,7 +1,7 @@
 ---
 name: Xin Yong
 position: pi
-avatar: xin_yong.jpg
+avatar: xin-yong.jpg
 twitter:
 title: Xin Yong
 ---

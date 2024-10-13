@@ -1,10 +1,10 @@
 ---
-name: Nasir Amiri
+name: Didarul Ahasan Redwan
 position: gradstudent
-avatar:
+avatar: didarul-redwan.jpg
 twitter:
 joined: 2021
-title: Nasir Amiri
+title: Didarul Redwan
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
