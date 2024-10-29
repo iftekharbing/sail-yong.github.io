@@ -9,10 +9,11 @@ We take a transdisciplinary approach to uncovering new physics and mechanics in 
 ### Research
 
 <figure><center>
-  <img width="500" src="{{site.baseurl}}/images/others/sail-research.jpg" data-action="zoom">
+  <img width="700" src="{{site.baseurl}}/images/others/sail-wordcloud.png" data-action="zoom">
 </center></figure>
 
 Soft matter, from droplets to membranes, presents fascinating properties, behavior, and functionalities. In parallel, biological active materials, such as molecular motors and microorganisms, leverage ambient energy for various tasks, offering blueprints for innovative biomimetic designs. These systems hold potential not only for technological advancements like wearable electronics, energy generation/storage, and personalized therapeutics, but also for addressing global challenges like infectious diseases and pollution. Given the complexity of these materials, evident from their intricate structures and interfaces, and scale-dependent dynamics, there is a clear gap in current modeling tools. Our lab spearheads the development of predictive modeling tools and theories across length and time scales that accurately capture fluid dynamics and interfacial phenomena in multiphase and multicomponent systems. We also are interested in developing experimental capabilities to  validate model predictions. We aim to elucidate the process-structure-property relationship in soft and active materials, providing concrete guidance for experimental endeavors.<br>
+
 Current research topics include but are not limited to 
 - Membrane shape remodeling in biological processes and biomanufacturing
 - Colloidal assembly and transport at fluid and biological interfaces
