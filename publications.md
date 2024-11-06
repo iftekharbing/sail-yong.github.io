@@ -6,6 +6,9 @@ permalink: /publications/
 We include the link for each of our papers that directs to a journal's site where that particular publication is available for access. We also try to provide links to preprint PDFs for papers that are not open access. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+[_Two Sides of the Coin: Synthesis and Applications of Janus Particles_](https://doi.org/10.1039/D4NR03652B)<br>
+Yifan Li, Fei Liu, Serkan Demirci, Utsav Kumar Dey, Thamer Rawah, Aneeba Chaudary, Ricardo Ortega, Zhengtao Yang, Emad Pirhadi, Bingrui Huang, Xin Yong, Shan Jiang<br>
+Nanoscale, 2024 ([PDF](https://pubs.rsc.org/en/content/articlepdf/2024/nr/d4nr03652b))
 
 [_Deep-Learning-Enhanced Modeling of Electrosprayed Particle Assembly on Non-spherical Droplet Surfaces_](https://doi.org/10.26434/chemrxiv-2024-wzr9s)<br>
 Nasir Amiri, Joseph Prisaznuk, Peter Huang, Paul Chiarot, Xin Yong<br>
